@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Danh sách" android:id="@+id/mnHome" android:icon="@drawable/baseline_home_24"/>
+    <item android:title="Yêu thích" android:id="@+id/mnFavourite" android:icon="@drawable/baseline_favorite_24"/>
+<!--    <item android:title="Cài đặt" android:id="@+id/mnSetting" android:icon="@drawable/baseline_settings_24"/>-->
+
+</menu>

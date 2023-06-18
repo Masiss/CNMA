@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465896781348",
+    "project_id": "cnma-c3df4",
+    "storage_bucket": "cnma-c3df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465896781348:android:91e335eecb9f67a26c0ab1",
+        "android_client_info": {
+          "package_name": "com.example.cnma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465896781348-v8en6f9lkbep5q4qrp4heu1p9mb44lcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyHdygCYAzlpoAhTcd0vX7yj6rPNoCII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465896781348-v8en6f9lkbep5q4qrp4heu1p9mb44lcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
